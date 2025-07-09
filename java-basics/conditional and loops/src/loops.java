@@ -8,11 +8,32 @@ public class loops {
         // 1. while loop
         // 2. do while loop
         // for loop
+
         System.out.print("enter the value of n : ");
-        int n = sc.nextInt();
-        for (int i = 0; i < n; i++) {
+//        for loop
+        /*syntax:
+        for(initialisation; condition; increment;){
+
+               body of loop
+        }
+         */
+       int n = sc.nextInt();
+      for (int i = 0; i < n; i++) {
             System.out.println("Hello!!");
 
+        }
+        /*  while loop:
+        syntax:
+           while(condition){
+
+               body
+
+           }
+         */
+        int i = 1;
+        while(i<=n) {
+            System.out.println(i +" hello ");
+            i = i + 1;
         }
     }
 }
