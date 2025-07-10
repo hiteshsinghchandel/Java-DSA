@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/conditional and loops/conditional and loops.iml" filepath="$PROJECT_DIR$/conditional and loops/conditional and loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-basics.iml" filepath="$PROJECT_DIR$/.idea/java-basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simpleoutput/simpleoutput.iml" filepath="$PROJECT_DIR$/simpleoutput/simpleoutput.iml" />
+    </modules>
+  </component>
+</project>
