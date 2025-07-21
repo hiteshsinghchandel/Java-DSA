@@ -12,7 +12,11 @@ public class linearsearch {
         System.out.println("enter the target");
         int target = sc.nextInt();
         int a  = Lsearch(arr,target);
-        System.out.println(a);
+        if(a !=-1){
+            System.out.println("index of target is : " + a);
+        }else{
+            System.out.println(a);
+        }
 
 
     }
